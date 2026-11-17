@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\dtos\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\dtos\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Migrations\\20260916120204_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatService\\Migrations\\20260916120204_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\dtos\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\dtos\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\data\\chatservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\data\\chatservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|c:\\users\\vuk\\documents\\github\\wanda\\backend\\chatservice\\chatservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090186C9-9560-42F2-89CD-910AF3BDFC94}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260916120204_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Migrations\\20260916120204_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ChatService\\Migrations\\20260916120204_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Migrations\\20260916120204_InitialCreate.cs",
+              "RelativeToolTip": "ChatService\\Migrations\\20260916120204_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:02:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ChatService\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Services\\JwtService.cs",
+              "RelativeToolTip": "ChatService\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:25:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\DTOs\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ChatService\\DTOs\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\DTOs\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "ChatService\\DTOs\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:17:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\DTOs\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "ChatService\\DTOs\\Requests\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\DTOs\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "ChatService\\DTOs\\Requests\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T11:03:50.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ChatService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ChatService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:55:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ChatService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ChatService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:32:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\appsettings.json",
+              "RelativeToolTip": "ChatService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T10:46:03.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Program.cs",
+              "RelativeDocumentMoniker": "ChatService\\Program.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Program.cs",
+              "RelativeToolTip": "ChatService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T10:43:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Data\\ChatServiceContext.cs",
+              "RelativeDocumentMoniker": "ChatService\\Data\\ChatServiceContext.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Data\\ChatServiceContext.cs",
+              "RelativeToolTip": "ChatService\\Data\\ChatServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:46:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ChatService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\Models\\User.cs",
+              "RelativeToolTip": "ChatService\\Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:34:34.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ChatService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Vuk\\Documents\\GitHub\\wanda\\backend\\ChatService\\ChatService\\WeatherForecast.cs",
+              "RelativeToolTip": "ChatService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:32:36.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
